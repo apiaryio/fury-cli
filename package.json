@@ -21,7 +21,7 @@
     "babel-runtime": "^6.23.0",
     "cardinal": "^2.1.1",
     "commander": "^2.9",
-    "fury": "3.0.0-beta.6",
+    "fury": "3.0.0-beta.7",
     "fury-adapter-apiary-blueprint-parser": "3.0.0-beta.3",
     "fury-adapter-apib-parser": "^0.10.0",
     "fury-adapter-apib-serializer": "^0.6.0",
